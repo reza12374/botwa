@@ -14,10 +14,10 @@ const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
 const BotName = 'bxdp.mv.bot'; 
-const instagram = 'kosong'; 
-const telegram = 'kosong'; 
+//const instagram = 'kosong'; 
+//const telegram = 'kosong'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'kosong';
+//const youtube = 'kosong';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
