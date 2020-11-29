@@ -17,7 +17,7 @@ const BotName = 'bxdp.mv.bot';
 //const instagram = 'kosong'; 
 //const telegram = 'kosong'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-//const youtube = 'kosong';
+const youtube = 'https://www.youtube.com/channel/UCutj_FiJjm1YVSRobLSJUPw';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
